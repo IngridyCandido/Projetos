@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 <img src="https://github.com/IngridyCandido/Projetos/blob/a9c7f293696ed15effb69d2585d32f019fb546d2/src/imagens/Captura-de-tela-1.png"/>
-<img src="./src/imagens/captura-de-tela-2.png"/>
+<img src="https://github.com/IngridyCandido/Projetos/blob/c0749f77092e325c8d9eb84460ee7e8b095369e8/src/imagens/Captura-de-tela-2.png"/>
 
 ### Links
 
