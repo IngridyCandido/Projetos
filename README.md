@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ```html
-<img src="./src/imagens/captura-de-tela-1.png"/>
+<link href="https://github.com/IngridyCandido/Projetos/blob/a9c7f293696ed15effb69d2585d32f019fb546d2/src/imagens/Captura-de-tela-1.png"/>
 <img src="./src/imagens/captura-de-tela-2.png"/>
 ```
 
