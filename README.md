@@ -60,4 +60,4 @@ I want to focus on learning more about CSS Grid and responsiveness. I still have
 
 ## Acknowledgments
 
-I would like to thank @euaisa for her support and introduce me to programming and @devemdobro for the Mario project, which gave me many tips that I put into practice here.
+I would like to thank [Isa](https://github.com/euaisa) for her support and introduce me to programming and [DevEmDobro](https://github.com/devemdobro) for the Mario project, which gave me many tips that I put into practice here.
